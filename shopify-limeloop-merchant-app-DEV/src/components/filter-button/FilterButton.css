@@ -1,0 +1,18 @@
+.FilterButton-Container {
+    display: inline-flex;
+    margin-right: 10px;
+}
+
+.FilterButton-Text {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    position: relative;
+    vertical-align: super;
+    margin-left: 5px;
+}
+
+.FilterButton-Container .Polaris-Icon {
+    display: inline-flex;
+}

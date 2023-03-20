@@ -1,0 +1,39 @@
+.FilterControl-Container {
+  display: inline-flex;
+  width: 100%;
+}
+
+.FilterControl-Container .Polaris-Button.Polaris-Button--primary {
+  margin-left: auto;
+}
+
+.Filters-Container {
+  display: inline-flex;
+  width: 100%;
+  position: relative;
+}
+
+.Filters-Container .Polaris-FormLayout {
+  display: inline-flex;
+  width: 79%;
+  margin-top: -1.5rem;
+}
+
+.SyncOrders-Container {
+  display: inline-flex;
+  margin-left: 10px;
+}
+
+.Polaris-ResourceList__CheckableButtonWrapper {
+  visibility: hidden;
+}
+
+.Tabs-Container.disabled-tabs ul>li>button {
+  cursor: not-allowed;
+  pointer-events: none;
+  color: #637381;
+}
+
+.Polaris-ResourceList-BulkActions__ButtonGroup {
+  visibility: hidden;
+}

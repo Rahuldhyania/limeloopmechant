@@ -1,0 +1,22 @@
+.Pagination-Container {
+  padding: 10px;
+  justify-content: flex-end;
+  position: relative;
+  align-items: center;
+  display: inline-flex;
+  margin-left: auto;
+  width: 100%;
+}
+
+.Select-Container {
+  display: inline-flex;
+  vertical-align: ce;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.Select-Text {
+  margin-right: 10px;
+}

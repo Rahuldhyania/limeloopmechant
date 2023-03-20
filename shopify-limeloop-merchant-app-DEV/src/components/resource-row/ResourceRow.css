@@ -1,0 +1,35 @@
+.ResourceList-Row {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.Data-OrderNumber, .Data-DateOrdered {
+    width: 15%;
+    max-width: 15%;
+}
+
+.Data-Customer {
+    width: 17%;
+    max-width: 17%;
+    text-align: center;
+}
+
+.Data-Destination {
+    width: 20%;
+    max-width: 280%;
+}
+
+.Data-FulfillmentStatus, .Data-Amount {
+    width: 10%;
+    max-width: 10%;
+    text-align: right;
+}
+
+.Data-Synced {
+    width: 8%;
+    max-width: 8%;
+}
+
+.Polaris-ResourceList-Item--focused {
+    background-image: none;
+}
